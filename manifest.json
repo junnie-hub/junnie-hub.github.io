@@ -1,0 +1,20 @@
+{
+  "short_name": "LFC",
+  "name": "La Fourchette de Cana",
+  "icons": [
+    {
+      "src": "../image/IMG-20251112-WA0008.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../image/IMG-20251112-WA0008.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#f8f8f8"
+}
